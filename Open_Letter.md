@@ -10,7 +10,7 @@ We invite your participation.  We are seeking (i) partners to help structure an 
 
 The project can be contacted at this GitHub site or via any of the participants.
 
-Examples of our work on on this GitHub repo and at sites such as (commonaccord.org)[http://commonaccord.org]
+Examples of our work on on this GitHub repo and at sites such as [commonaccord.org](http://commonaccord.org)
 Thanks.
 
 James Hazard  james.g.hazard@gmail.com

@@ -10,6 +10,10 @@ We invite your participation. We are seeking (i) partners to help structure an o
 
 The project can be contacted at this GitHub site or via any of the participants.
 
+Thanks.
+
+James Hazard
+
 
 
 

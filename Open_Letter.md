@@ -10,7 +10,7 @@ We invite your participation.  We are seeking (i) partners to help structure an 
 
 The project can be contacted at this GitHub site or via any of the participants.
 
-Examples of our work are on this GitHub repo and at sites such as [commonaccord.org](http://commonaccord.org) and [startup.commonaccord.org](http://startup.commonaccord.org) (note that the entire chain is provided cost-free by hosting companies GitHub and Heroku.  The Heroku sites can take up to a half minute to respond the first time if they have not been accessed for a while.)
+Examples of our work are on this GitHub repo and at sites such as [commonaccord.org](http://commonaccord.org) and [startup.commonaccord.org](http://startup.commonaccord.org) (Note that the entire chain is provided cost-free by hosting companies GitHub and Heroku.  The Heroku sites can take up to a half minute to respond the first time if they have not been accessed for a while.)
 
 Thanks.
 
